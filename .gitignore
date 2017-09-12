@@ -1,0 +1,14 @@
+### SublimeText ###
+*.sublime-workspace
+*.sublime-project
+
+### Hugo ###
+/public/
+/themes/
+
+### Visual Studio Code ###
+.settings/
+.vscode/
+
+### Website ###
+/static/google*.html
