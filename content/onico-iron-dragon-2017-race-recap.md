@@ -1,7 +1,6 @@
 ---
 title: "Onico Iron Dragon 2017 Race Recap"
 date: 2017-09-12T12:44:25+02:00
-draft: true
 tags:
     - race
 ---
