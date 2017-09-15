@@ -26,3 +26,7 @@ Writing is a great way to clarify thinking. It's linear (unlike the brain's work
 Publishing my writing carries a _slim_ chance of someone knowledgeable contributing---answering some of the questions I'm raising, proposing better ways of training and competing. I'm not expecting much of an audience here, but I'll welcome any comments and corrections.
 
 Lastly, I've seen enough people get into triathlon, or other sports, or just getting more active, after they've seen others like them do it. By publishing here I _may_ be able to inspire someone to get off their buttocks and get in shape.
+
+## What am I going to blog about?
+
+Whatever I consider _meaningful_ for the sport and a general audience. My heart rate in one specific training is _not_ meaningful, but an analysis of my performance throughtout a month or quarter could be. A book review, considerations in choosing gear, race plans, results, conclusions, etc.
