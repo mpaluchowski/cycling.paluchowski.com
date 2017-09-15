@@ -3,6 +3,7 @@ title: "Onico Iron Dragon 2017 Race Recap"
 date: 2017-09-12T12:44:25+02:00
 tags:
     - race
+    - race recap
 ---
 
 Disaster. This was by far my worst appearance *ever*. Not so much the time, but the **shape** I was in throughout the event -- unable to catch my breath after swimming, and unable to run more than 50m at a time after getting off the bike. I was struggling worse than I did at the IronMan 70.3 distance in Gdynia just a month earlier.

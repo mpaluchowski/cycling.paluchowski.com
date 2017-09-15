@@ -1,6 +1,9 @@
 ---
 title: "2017 Season Recap"
 date: 2017-09-14T09:37:34+02:00
+tags:
+    - training season
+    - season recap
 ---
 
 Last weekend's Iron Dragon race was the last of my 2017 season. It's finished now and for the next few weeks I'll be off structured training. I need rest, mostly mentally, because physically I haven't trained nearly as hard as I was planning to, crippled by injuries and various obstacles.
