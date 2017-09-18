@@ -8,6 +8,8 @@ tags:
 
 Last weekend's Iron Dragon race was the last of my 2017 season. It's finished now and for the next few weeks I'll be off structured training. I need rest, mostly mentally, because physically I haven't trained nearly as hard as I was planning to, crippled by injuries and various obstacles.
 
+<!--more-->
+
 Only after my failure at Iron Dragon did I realize __how much of a toll the past season took on my psyche__. I had to endure lengthy periods of not being able to train, waiting for injuries to heal, then when I _could_ train, kept worrying about injuries re-appearing. The week after Iron Dragon I didn't feel like training anymore _at all_. I logically knew I would, but emotionally felt otherwise.
 
 I'll use the next few weeks to __bring back the fun into my fitness routine__. Cycle again with the [Saturday AirBike group][airbike-cycling-group]. Run for leisure, through the parks and forests of Warsaw. Get back in the gym to work on my physique. No intervals, no pace nor heartrate targets.

@@ -8,6 +8,8 @@ tags:
 
 Disaster. This was by far my worst appearance *ever*. Not so much the time, but the **shape** I was in throughout the event -- unable to catch my breath after swimming, and unable to run more than 50m at a time after getting off the bike. I was struggling worse than I did at the IronMan 70.3 distance in Gdynia just a month earlier.
 
+<!--more-->
+
 ## Results[^1]
 
 <table>
