@@ -3,5 +3,6 @@ languageCode: en-us
 title: Edge
 theme: triathlete
 sectionPagesMenu: main
+copyright: Published by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a>. All content is under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
 params:
     Subtitle: One triathlete's journey
