@@ -5,15 +5,17 @@ weight: 100
 ---
 
 > __edge__ _n_
-> 
+>
 > * Vigor or energy especially of body.
 > * Keenness or intensity of desire or enjoyment.
 > * A favorable margin.
 >
 > __edge__ _v_
-> 
+>
 > * To move or force gradually.
 > * To defeat by a small margin.
+
+{{< figure src="/img/about/michal.jpg" class="left" >}}
 
 I'm a mediocre age grouper. Lower-mediocre perhaps, considering my track record to date. But I'm working on getting better, faster, stronger, and sharing these experiences along the way.
 
