@@ -1,6 +1,7 @@
 ---
 title: "Onico Iron Dragon 2017 Race Recap"
 date: 2017-09-12T12:44:25+02:00
+image: /img/races/iron-dragon-2017/recap/iron-dragon-medal.jpg
 tags:
     - race
     - race recap
