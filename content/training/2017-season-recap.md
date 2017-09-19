@@ -6,7 +6,7 @@ tags:
     - season recap
 ---
 
-Last weekend's Iron Dragon race was the last of my 2017 season. It's finished now and for the next few weeks I'll be off structured training. I need rest, mostly mentally, because physically I haven't trained nearly as hard as I was planning to, crippled by injuries and various obstacles.
+Last weekend's [Iron Dragon race]({{< relref "/races/iron-dragon-2017/_index.md" >}}) was the last of my 2017 season. It's finished now and for the next few weeks I'll be off structured training. I need rest, mostly mentally, because physically I haven't trained nearly as hard as I was planning to, crippled by injuries and various obstacles.
 
 <!--more-->
 
@@ -40,10 +40,9 @@ I won't be doing detailed planning for next year's season just yet. I do have so
 * Hoping to do __three triathlons next season__, a sprint, an olympic distance and the IronMan 70.3 in Gdynia again.
 * I'll __join running races__ in autumn, winter and spring, possibly finishing with the March half-marathon in Warsaw.
 
-We'll see how much of the above life will actually let me do. We continue trying to conceive with my wife, and when that succeeds, I'm fully expecting the time I now have available for training to get _wiped out_. But I'll deal with that when the time comes. For now I'll be enjoying my time off and doing a bit of running in preparations for the [October 1 Biegnij Warszawo][biegnij-warszawo].
+We'll see how much of the above life will actually let me do. We continue trying to conceive with my wife, and when that succeeds, I'm fully expecting the time I now have available for training to get _wiped out_. But I'll deal with that when the time comes. For now I'll be enjoying my time off and doing a bit of running in preparations for the [October 1 Biegnij Warszawo]({{< relref "/races/biegnij-warszawo-2017/_index.md" >}}).
 
 [airbike-cycling-group]: https://www.facebook.com/pg/airbikewilanow/events/
-[biegnij-warszawo]: https://www.biegnijwarszawo.pl/
 [kuznia-triathlonu]: http://kuznia-triathlonu.pl/
 [trinergy]: http://www.trinergy.pl/
 [triwawa]: https://www.facebook.com/triwarszawa/
