@@ -4,7 +4,7 @@ RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 <IfModule mod_headers.c>
-    Header set Content-Security-Policy "default-src 'self'; script-src 'unsafe-inline' 'self' https://www.google-analytics.com https://disqus.com/ https://*.disqus.com/ https://*.disquscdn.com/; style-src 'unsafe-inline' 'self' https://fonts.googleapis.com https://*.disquscdn.com/; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://www.google-analytics.com https://*.disqus.com/ https://*.disquscdn.com/; frame-src 'self' https://www.strava.com/ https://*.spotify.com"
+    Header set Content-Security-Policy "default-src 'self'; script-src 'unsafe-inline' 'self' https://www.google-analytics.com https://disqus.com/ https://*.disqus.com/ https://*.disquscdn.com/; style-src 'unsafe-inline' 'self' https://fonts.googleapis.com https://*.disquscdn.com/; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://www.google-analytics.com https://*.disqus.com/ https://*.disquscdn.com/; frame-src 'self' https://www.strava.com/ https://disqus.com/ https://*.disqus.com/ https://*.spotify.com"
     Header set X-Frame-Options DENY
 
     <FilesMatch "\.(jpg|jpeg|png|svg|ico)$">
