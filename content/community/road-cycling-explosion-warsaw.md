@@ -1,6 +1,7 @@
 ---
 title: Road Cycling's Explosion in Warsaw
 date: 2017-09-20T19:39:06+02:00
+image: /img/community/road-cycling-explosion-warsaw/airbike-cycling-group.jpg
 ---
 
 I can't figure this one out. Did this big and vibrant community of road cyclists in Warsaw just _pop up_ and mushroom in the last three years, or was it always there, of which I had no idea until I became a part of it?
