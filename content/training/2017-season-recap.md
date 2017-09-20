@@ -1,6 +1,7 @@
 ---
 title: "2017 Season Recap"
 date: 2017-09-14T09:37:34+02:00
+image: /img/training/2017-season-recap/ironman-finisher.jpg
 tags:
     - training season
     - season recap
