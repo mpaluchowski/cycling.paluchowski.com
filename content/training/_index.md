@@ -1,4 +1,4 @@
 ---
 title: Training
-weight: 80
+weight: 10
 ---
