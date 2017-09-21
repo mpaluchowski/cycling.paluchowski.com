@@ -42,7 +42,7 @@ Disaster. This was by far my worst appearance *ever*. Not so much the time, but 
 
 ## Conditions
 
-I couldn't warm up propertly because the organizers scheduled the technical briefing for 11:20, then *delayed* it to 11:30. It took only 10 minutes, but even so, I barely had time to put on my wetsuit, then reach the warm-up area, when the organizers called for everyone to leave the water.
+I couldn't warm up properly because the organizers scheduled the technical briefing for 11:20, then *delayed* it to 11:30. It took only 10 minutes, but even so, I barely had time to put on my wetsuit, then reach the warm-up area, when the organizers called for everyone to leave the water.
 
 * Dry weather throughout the course, very warm in the morning, up to 27C, later partially clouded and warm at 23C. Little to no wind.
 * Cool water at 20C. No waves. Good visibility of buoys and landmarks while swimming.
