@@ -3,8 +3,8 @@ title: "2017 Season Recap"
 date: 2017-09-14T09:37:34+02:00
 image: /img/training/2017-season-recap/ironman-finisher.jpg
 tags:
-    - training season
-    - season recap
+    - training seasons
+    - season recaps
 ---
 
 Last weekend's [Iron Dragon race]({{< relref "/races/iron-dragon-2017/_index.md" >}}) was the last of my 2017 season. It's finished now and for the next few weeks I'll be off structured training. I need rest, mostly mentally, because physically I haven't trained nearly as hard as I was planning to, crippled by injuries and various obstacles.
