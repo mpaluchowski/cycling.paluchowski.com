@@ -6,7 +6,6 @@ tags:
     - cycling
     - road bikes
     - cycling clubhouses
-    - cycling garments
     - cycling groups
 ---
 
