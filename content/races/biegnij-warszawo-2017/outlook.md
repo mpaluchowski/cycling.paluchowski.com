@@ -4,6 +4,7 @@ date: 2017-09-23T12:11:42+02:00
 tags:
     - races
     - race outlooks
+    - Warsaw
 ---
 
 This is going to be _fun_. I'm still enjoying [my post-season break]({{< relref "training/2017-season-recap.md" >}}), so I've no pressure whatsover to perform. I want to finish, enjoy it all the way and take advantage of the forecasted sunny weather. I'm guessing many of the other 13,000 participants see it the same way.

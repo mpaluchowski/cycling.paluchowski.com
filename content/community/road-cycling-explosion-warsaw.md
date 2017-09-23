@@ -7,6 +7,7 @@ tags:
     - road bikes
     - cycling clubhouses
     - cycling groups
+    - Warsaw
 ---
 
 I can't figure this one out. Did this big and vibrant community of road cyclists in Warsaw just _pop up_ and mushroom in the last three years, or was it always there, of which I had no idea until I became a part of it?
