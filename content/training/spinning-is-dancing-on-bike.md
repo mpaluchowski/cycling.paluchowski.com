@@ -9,7 +9,11 @@ I must be looking silly in spinning classes. The music's better than at most dan
 
 Autumn barely just started and it's already in full swing. We had a full week of rain, including this current weekend. It doesn't make cycling impossible---they say there's no bad weather, just bad clothing---but I realized long ago that I derive no pleasure from returning home covered head to toes in mud. Like the group of guys I occasionally ride with [did yesterday][strava-ride-tts].
 
-Cold I don't mind. I've been cycling all previous winter, including a [fun ride on New Year's Eve][strava-new-years-eve-ride]. It's been very pleasantly trainquil with few other bikers on the usually crowded routes. So, as long as it's dry, there's no snow nor ice on the road, and above -5C, I'll be cycling outside. For the other days---the wet, snowy or ice-covered ones---I found a great alternative in spinning classes.
+Cold I don't mind. I've been cycling all previous winter, including a [fun ride on New Year's Eve][strava-new-years-eve-ride]:
+
+{{< strava-activity id="840057488" hash="6a93a704064cb3cf22b266a1698cf9870fd1765a" >}}
+
+It's been very pleasantly trainquil with few other bikers on the usually crowded routes. So, as long as it's dry, there's no snow nor ice on the road, and above -5C, I'll be cycling outside. For the other days---the wet, snowy or ice-covered ones---I found a great alternative in spinning classes.
 
 There are a few different spinning variants, some including doing weird, push-up-like exercises on the bikes, but I stick to the regular "Spinn Bike" or just "Spinning" ones. These offer a good mix of endurance with strength and anaerobic intervals.
 
