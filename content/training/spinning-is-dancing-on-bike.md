@@ -1,6 +1,10 @@
 ---
 title: "Spinning is Dancing on a Bike"
 date: 2017-09-24T19:00:57+02:00
+tags:
+    - spinning
+    - cycling
+    - weather
 ---
 
 I must be looking silly in spinning classes. The music's better than at most dance parties, I'm pedalling in sync with the beat, and the effort releases a heady endorphine rush. Can't help but bang my head and swing my hips when a particularly good song reaches its chorus.
