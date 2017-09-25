@@ -7,7 +7,7 @@ tags:
     - Warsaw
 ---
 
-This is going to be _fun_. I'm still enjoying [my post-season break]({{< relref "training/2017-season-recap.md" >}}), so I've no pressure whatsover to perform. I want to finish, enjoy it all the way and take advantage of the forecasted sunny weather. I'm guessing many of the other 13,000 participants see it the same way.
+This is going to be _fun_. I'm still enjoying [my post-season break]({{< relref "training/2017-season-recap.md" >}}), so I've no pressure whatsoever to perform. I want to finish, enjoy it all the way and take advantage of the forecasted sunny weather. I'm guessing many of the other 13,000 participants see it the same way.
 
 <!--more-->
 
@@ -29,7 +29,7 @@ There's also the final kilometer, running downhill on tired legs. Again, looks l
 
 My fitness is still crap. I've only lately started doing decent [runs at a pace of around 5:30/km][strava-sep-21-run], and it'll take me a few months to rebuild what I lost this year. For this race, if I manage to pace myself correctly, and not mess up the eating before, I should be able to finish around the 5:45/km average.
 
-I'll take some fuel with me---a gel sachette for before the run, and a small bottle of isotonic drink. There will be a drink station around the 5th kilometer, but I like to have a bottle with me so that I can sip from it slowly rather than gulp down whole cups between the aid station and drop zone.
+I'll take some fuel with me---a gel sachet for before the run, and a small bottle of isotonic drink. There will be a drink station around the 5th kilometer, but I like to have a bottle with me so that I can sip from it slowly rather than gulp down whole cups between the aid station and drop zone.
 
 [biegnij-warszaw-trasa]: https://www.biegnijwarszawo.pl/biegnij-warszawo/trasa-biegu/
 [strava-sep-21-run]: https://www.strava.com/activities/1194927024

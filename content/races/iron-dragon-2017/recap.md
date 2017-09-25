@@ -56,9 +56,9 @@ Started the **swim** quickly, somewhat on the back of the main pack. Kept the pa
 
 Exited water with a pulse that was way too fast, and a colic. After climbing the slope right off the water had to stop for a minute to catch my breath before heading for the transition zone. Quick, flawless transition.
 
-On the **bike** regained posture and stopped feeling the colic. Quick and smooth ride. Caught a groop on one of the loops, which gave me a bit of a speed boost. Couldn't make much use of drafting because coming so late out of the swim most of the riders before me were long gone.
+On the **bike** regained posture and stopped feeling the colic. Quick and smooth ride. Caught a group on one of the loops, which gave me a bit of a speed boost. Couldn't make much use of drafting because coming so late out of the swim most of the riders before me were long gone.
 
-*Melted* down on the **run**. Felt massive cramps in my quads *and* hamstrings right off the bike. Colic returned too, plus signs of high blood pressure -- ears getting stuck and I could hear my breathing as if I had empty space in my head. Tried to stretch out the thigh cramps and after about 2km they were mostly gone. Colic remained with me for the rest of the trail and, combined with legs being tired, and probably the fatigue from high blood pressue, didn't let me run for longer than 50-100m at a time. I probably did more walking then running at this stage.
+*Melted* down on the **run**. Felt massive cramps in my quads *and* hamstrings right off the bike. Colic returned too, plus signs of high blood pressure -- ears getting stuck and I could hear my breathing as if I had empty space in my head. Tried to stretch out the thigh cramps and after about 2km they were mostly gone. Colic remained with me for the rest of the trail and, combined with legs being tired, and probably the fatigue from high blood pressure, didn't let me run for longer than 50-100m at a time. I probably did more walking then running at this stage.
 
 ## Conclusions
 
@@ -75,6 +75,6 @@ My take-aways from this race:
 
 Need to investigate:
 
-1. The repeating quad anad hamstring cramps. It shouldn't be a matter of insufficient magnesium, because I was taking extra supplements for a few days before the race. A matter of more training aimed at muscular endurance?
+1. The repeating quad and hamstring cramps. It shouldn't be a matter of insufficient magnesium, because I was taking extra supplements for a few days before the race. A matter of more training aimed at muscular endurance?
 
 [^1]: Official results didn't separate transition times from the racing legs, so I had to do some math and the numbers here are slightly inaccurate.
