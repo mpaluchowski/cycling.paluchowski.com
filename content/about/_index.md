@@ -21,13 +21,13 @@ I'm a mediocre age grouper. Lower-mediocre perhaps, considering my track record 
 
 In primary school I was the second-last guy selected for teams in physical education classes. Slow, slightly overweight, clumsy. Funny thing is, the last guy today is running marathons and I'm doing half-IronMan distance triathlons, while many of the top guys from the old days walk around with beer bellies. Things change.
 
-I signed up for my first triathlon, a sprint-distance relay race, on one Saturday afternoon. The three of us---me, my wife and sister in law---completed a fun physical challenge earlier in the day and were still endorphine-driven, when my wife proposed we sign up for this triathlon her company was sponsoring. We did the relay. The next year we did the sprint individually, then just kept racing.
+I signed up for my first triathlon, a sprint-distance relay race, on one Saturday afternoon. The three of us---me, my wife and sister in law---completed a fun physical challenge earlier in the day and were still endorphin-driven, when my wife proposed we sign up for this triathlon her company was sponsoring. We did the relay. The next year we did the sprint individually, then just kept racing.
 
-What happened between my sports-deficient childhood and my early thiries was I met my wife, who turned me onto healthy eating, living, poked me into joining a gym, building some muscles, getting fit. By the time she proposed we sign up for that first race, I was ready for it.
+What happened between my sports-deficient childhood and my early thirties was I met my wife, who turned me onto healthy eating, living, poked me into joining a gym, building some muscles, getting fit. By the time she proposed we sign up for that first race, I was ready for it.
 
 ## What am I aiming for?
 
-Fun. First and foremost. I came to love physical activity and I adore the atmosphere around triathlon races---the people who normaly train in solitude or small groups, coming together, often with families. It's a massively supportive sport---if I'm feeling weak on the course there will _always_ be other athletes cheering me on, helping out. There's a strong sense of community here.
+Fun. First and foremost. I came to love physical activity and I adore the atmosphere around triathlon races---the people who normally train in solitude or small groups, coming together, often with families. It's a massively supportive sport---if I'm feeling weak on the course there will _always_ be other athletes cheering me on, helping out. There's a strong sense of community here.
 
 Yes, I want to have better results. Be a little faster with each race---that's what the trainings are for. But it's most important for me that I finish a race in good shape, so that I can enjoy every moment of it, and the celebrations afterwards.
 
@@ -41,4 +41,4 @@ Lastly, I've seen enough people get into triathlon, or other sports, or just get
 
 ## What am I going to blog about?
 
-Whatever I consider _meaningful_ for the sport and a general audience. My heart rate in one specific training is _not_ meaningful, but an analysis of my performance throughtout a month or quarter could be. A book review, considerations in choosing gear, race plans, results, conclusions, etc.
+Whatever I consider _meaningful_ for the sport and a general audience. My heart rate in one specific training is _not_ meaningful, but an analysis of my performance throughout a month or quarter could be. A book review, considerations in choosing gear, race plans, results, conclusions, etc.

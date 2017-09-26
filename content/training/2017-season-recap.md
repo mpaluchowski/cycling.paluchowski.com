@@ -41,7 +41,7 @@ I won't be doing detailed planning for next year's season just yet. I do have so
 * Hoping to do __three triathlons next season__, a sprint, an olympic distance and the IronMan 70.3 in Gdynia again.
 * I'll __join running races__ in autumn, winter and spring, possibly finishing with the March half-marathon in Warsaw.
 
-We'll see how much of the above life will actually let me do. We continue trying to conceive with my wife, and when that succeeds, I'm fully expecting the time I now have available for training to get _wiped out_. But I'll deal with that when the time comes. For now I'll be enjoying my time off and doing a bit of running in preparations for the [October 1 Biegnij Warszawo]({{< relref "/races/biegnij-warszawo-2017/_index.md" >}}).
+We'll see how much of the above life will actually let me do. We continue trying to conceive with my wife, and when that succeeds, I'm fully expecting the time I now have available for training to get _wiped out_. But I'll deal with that when the time comes. For now, I'll be enjoying my time off and doing a bit of running in preparations for the [October 1 Biegnij Warszawo]({{< relref "/races/biegnij-warszawo-2017/_index.md" >}}).
 
 [airbike-cycling-group]: https://www.facebook.com/pg/airbikewilanow/events/
 [kuznia-triathlonu]: http://kuznia-triathlonu.pl/
