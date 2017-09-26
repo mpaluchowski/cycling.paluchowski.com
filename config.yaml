@@ -9,6 +9,9 @@ copyright: Published by <a href="https://michal.paluchowski.com/">Michał Paluch
 params:
     Subtitle: One Triathlete's Journey
     Description: I'm a mediocre age grouper, sweating hard to improve. Here I share my findings, concerns and questions.
+    Favicon:
+        Image: /favicon.png
+        Type: image/png
     Intro:
         GravatarEmail: michal@paluchowski.com
         Name:  Michał
