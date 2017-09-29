@@ -1,5 +1,5 @@
 ---
-title: Strava Can Do Better Than Athlete Posts
+title: Strava Should Do Better Than Athlete Posts
 date: 2017-09-29T10:35:14+02:00
 tags:
     - Strava
