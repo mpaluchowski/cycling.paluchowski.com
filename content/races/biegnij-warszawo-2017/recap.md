@@ -1,6 +1,6 @@
 ---
 title: "Biegnij Warszawo 2017 Race Recap"
-date: 2017-10-01T18:35:15+02:00
+date: 2017-10-02T07:20:15+02:00
 image: /img/races/biegnij-warszawo-2017/recap/medals.jpg
 tags:
     - Warsaw
@@ -9,7 +9,7 @@ tags:
     - running
 ---
 
-Woohoo! Strava tells me this was my best 10K result ever. That's probably true, but it was also my first race at this distance that I finished without any issues. No bonk, no colic, no dehydration, and solid form from start to end. Even the climb on Spacerowa Str. wasn't that big a deal.
+Woohoo! Strava tells me this was my best 10K result ever. That's probably true, but it was also the first time I finished this distance without any issues. No bonk, no colic, no dehydration, and solid form throughout. Even the climb on Spacerowa Str. wasn't that big a deal.
 
 <!--more-->
 
@@ -19,34 +19,35 @@ Woohoo! Strava tells me this was my best 10K result ever. That's probably true, 
 
 ## Conditions
 
-Sunny and cool, around 9C when we left home and close to 12C at the start. We were asked to dress in the race's official t-shirt---short-sleeved and very light---which I thought would be too little to keep me warm, especially while waiting for the start. Sunlight solved my worries as soon as we arrived at the race grounds. Starting blocks were placed in the open and I was actually even feeling _too_ warm waiting.
+__Sunny and cool__, around 9C when we left home and close to __12C at the start__. We were asked to dress in the race's official t-shirt---short-sleeved and very light---which I feared would be too little to stay warm, especially while waiting for the start. Sunlight solved my worries. Starting blocks were well exposed and I was even feeling _too_ warm at times.
 
-My left ankle felt stiff and a bit painful from the morning. Strange, because I didn't do anything particularly straining with it for the whole previous week---a short [5K run on Wednesday][strava-wed-run] and a very light [ride on Saturday][strava-sat-ride]. Common sense told me I probably shouldn't be running, but I really didn't want to waste yet another race. Over the last year I resigned last minute from two 10K races because of injuries.
+My __left ankle felt stiff and a bit painful__ from the moment I woke up. Surprising, because I didn't do anything particularly hard on the legs for the whole previous week---a short [5K run on Wednesday][strava-wed-run] and a [very light ride on Saturday][strava-sat-ride]. For a moment I __considered withdrawing from the race__, but I really didn't want to waste yet another one. Over the last year I resigned, last minute, from two 10K races because of injuries.
 
 ## Course Recap
 
-Getting 10,000 runners into their starting blocks takes time, so we had to wait some 20 minutes for the first gun at 12:00, then another 12 minutes for our wave's turn. I estimated being able to complete the run in around 00:55, so we chose the last of the four start sectors.
+Getting 10,000 runners into their starting blocks takes time, so we had to wait some 20 minutes for the first gun at 12:00, then another 12 minutes for our wave's turn. I estimated being able to complete the course in around 55min, so we chose the last of the four start sectors.
 
-I started easy, trying to balance the effort and save energy for the climb at Spacerowa Str. starting around the 3rd kilometer. I was satisfied to see that "easy" was around the 5:20 pace mark, which if I could sustain, would land me right at the 55min finish target.
+I started easy, trying to balance the effort and save energy for the climb at Spacerowa Str. after the 3rd kilometer. I was satisfied to see that "easy" was __around the 5:20 pace mark__, which if I could sustain, would land me right at the 55min finish target.
 
-I was surprised to see some of the runners turn to walking already 500m into the race. Some people seem to severely misjudge what it takes to complete a race. They should've have been in there at all, choose a 5K race instead and prepare for it steadily.
+Some of the runners, surprisingly, turned to walking just a few hundred meters into the race. People sometimes severely misjudge what it takes to complete a race.
 
-The climb wasn't bad. I slowed down to a 6:00 pace, watched my breathing closely and ran right through it. After that the previous pace of 5:30-5:20 didn't feel as easy anymore, but still manageable.
+The __climb wasn't bad__. I slowed down to a 6:00 pace, watched my breathing closely and ran right through it. My heart rate stayed higher for the remainder of the race, but still within reasonable limits.
 
-Around the 6th kilometer I noticed having slowed down to around 5:40, so I pushed a bit and sped up. Turns out I had plenty of energy left to keep me going, and with just 4km left in the race decided there's not much more to save for. I completed the next three kilometers at 5:16, 5:12 and 5:08 respectively.
+Around the 6th kilometer I noticed having slowed down to around 5:40, so I pushed a bit and sped up. Turns out I __had plenty of energy left__, and with less than 4km remaining, decided there wasn't much to save for. I completed the next three kilometers at 5:16, 5:12 and 5:08 respectively.
 
-Frankly, at this point, everyone around me seemed to have sped up considerably. While earlier I was passing quite a few runners, at this point it got much harder.
+Everyone around me at this point probably concluded the same and sped up considerably. It was much harder now to pass other runners the way I could in the beginning.
 
-Then came the final kilometer, with a relatively steep run down Górnośląska and Myśliwiecka streets. This is where everyone pushed even harder and I also used the terrain to speed up even further, to a 4:41 pace. Out of the curve, facing Łazienkowska Str. I could already see the finish line, so I pressed on, well into Zone 5, passing the finish line at a pace of around 4:02.
+Then came the __final kilometer__, with a relatively steep run down Górnośląska and Myśliwiecka streets. Everyone pressed hard here and I also used the terrain to speed up to a 4:41 pace. Out of the curve, facing Łazienkowska Str. I could already see the finish line, so I gave all I had left, well into Zone 5, passing the finish line at a pace of around 4:02.
 
 ## Conclusions
 
-I can certainly improve beyond this race's result and the previous ones. All it takes is some regularity in training, which didn't didn't have much of over the last year.
+I can certainly improve beyond this race's result. All it takes is some regularity in training, which I was [missing during the last season]({{< relref "training/2017-season-recap.md">}}).
 
 My take-aways from this race:
 
-1. It's brilliant to run in a pack. While the run really felt crowded, it's still much better than running on empty streets because I'm one of the last racers finishing a triathlon.
-1. I really need to take my own water for 10K races. I didn't for this one, relying on the single aid station around the 5th kilometer, but I need a stable supply of fluids.
+1. It's brilliant to run in a pack. While the run really felt crowded, it's still much better than running through empty streets when I'm one of the last racers finishing a triathlon.
+1. I really need to take my own water for 10K+ races. For this one I didn't, relying on the single aid station around the 5th kilometer, but I would've had a better result with a stable supply of fluids.
+1. Regularity trumps frequency in training. I see much better results after the last few weeks from fewer runs and rides, than I had in early 2017 with more weekly hours spent in training.
 
 Need to investigate:
 
