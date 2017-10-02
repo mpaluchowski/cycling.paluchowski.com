@@ -41,6 +41,8 @@ Then came the __final kilometer__, with a relatively steep run down Górnośląs
 
 ## Conclusions
 
+{{<figure src="/img/races/biegnij-warszawo-2017/recap/michal-milena-finish.jpg" class="right" >}}
+
 I can certainly improve beyond this race's result. All it takes is some regularity in training, which I was [missing during the last season]({{< relref "training/2017-season-recap.md">}}).
 
 My take-aways from this race:
