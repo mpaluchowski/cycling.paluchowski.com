@@ -2,6 +2,9 @@
 title: Triathlon Never Gets Easier
 date: 2017-10-22T18:20:15+02:00
 tags:
+    - hardship
+    - professional triathletes
+    - IronMan World Championship
 ---
 
 I thought the top athletes in our sport are somehow gifted. Not so much for the results they achieve, because they've obviously been training _something_ all their lives, but for the ease with which they endure long races---70.3s and full IronMans. Turns out I was wrong.
