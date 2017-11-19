@@ -1,6 +1,7 @@
 ---
 title: "Bieg Niepodległości 2017 Race Recap"
 date: 2017-11-12T08:07:31+01:00
+image: /img/races/bieg-niepodleglosci-2017/recap/medal.jpg
 tags:
     - races
     - race recaps
