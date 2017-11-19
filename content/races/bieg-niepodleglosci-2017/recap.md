@@ -6,9 +6,10 @@ tags:
     - races
     - race recaps
     - Warszawa
+    - injuries
 ---
 
-Not bad. Turns out [elliptical training]({{< relref "training/intervals-on-elliptical-machine.md" >}}) works pretty well, and not only did I finish this in good shape, but I also beat beat [my result from a month ago]({{< relref "races/biegnij-warszawo-2017/recap.md" >}}) by almost three minutes. If this continues, I might be able to beat the 50-minute mark early next year.
+Not bad. Turns out [elliptical training]({{< relref "training/intervals-on-elliptical-machine.md" >}}) works pretty well, and not only did I finish this in good shape, but I also beat [my result from a month ago]({{< relref "races/biegnij-warszawo-2017/recap.md" >}}) by almost three minutes. If this continues, I might be able to go below the 50-minute mark early next year.
 
 <!--more-->
 
@@ -18,33 +19,34 @@ Not bad. Turns out [elliptical training]({{< relref "training/intervals-on-ellip
 
 ## Conditions
 
-__Cold, mostly dry.__ Temperature wasn't that bad, somewhere close to 6C when we started, but the wind sent some serious chills our way. We had to wait over half an hour for our wave to start (there were 15,000 runners there with us) and trying to stay reasonably warm became a real challenge. I couldn't overdress because I knew I'd be too hot later, on the way. I decided to protect myself with extra calories and ate an extra gel while waiting.
+__Cold, mostly dry.__ Temperature wasn't that bad, somewhere close to 6C when we started, but the wind sent some serious chills our way. We had to wait over half an hour for our wave to start (there were 15,000 runners there with us) and trying to stay reasonably warm became a real challenge. I couldn't dress too warm because I knew I'd overheat quickly once we started. Too boost my cold resistance, I threw in some extra calories by eating an extra gel while waiting.
 
-My left foot, which started complaining since the Biegnij Warszawo race a month ago, still isn't fine. I did a test run on November 5 to see how it'll behave and didn't suffer too much afterwards, so I decided to race this time nonetheless. But I'm not signing up for any other races until I get this in order.
+My left foot, which started hurting just before the [Biegnij Warszawo race]({{< relref "races/biegnij-warszawo-2017/_index.md" >}}) a month ago, still didn't recover. I did a [test run on November 5][strava-run-nov-5] to see how it responds, and didn't suffer too much afterwards, so I decided to race this time nonetheless. But I'm __not signing up for any other races until I get this in order__.
 
 ## Course Recap
 
-I started well. Earlier I worried about the massive crowd I'd be running along, but with three, sometimes four lanes available to us, this turned out not to be a problem. I could overtake others and be overtaken without too much ado.
+Steady, good pace throughout. Before the start I was worrying about the massive crowd I'd be running in, but with three, sometimes four lanes available to us, this was not an issue. I could overtake others and be overtaken without too much hassle.
 
-My TomTom Spark failed me this time. Heart rate meter got somehow confused and kept telling me I wasn't even reaching Zone 1, when my breath clearly said something different. Also, because we were running in between high-rise buildings, the GPS couldn't always precisely calculate my location and pace. You can see me "running" through a few buildings on the trail above.
+My __TomTom Spark failed me__ this time. The heart rate meter got confused and kept claiming that I wasn't even reaching Zone 1, when my body clearly showed something different. Also, because the course was surrounded by high-rise buildings, the GPS couldn't sometimes calculate my exact location and pace. You can see me "running" through a few buildings in the trail above.
 
-My legs felt heavy around the second to third kilometers. Plus a colic seemed to be creeping up on me. Both went away after a while.
+My legs felt heavy around the second to third kilometers. Plus a colic tried to get at me. Both went away after a while.
 
-I had my own water this time, which I kept seeping throughout the race. Saved me from having to slow down at the food station or gulping down whole cups of liquid.
+I brought my own water this time, which I kept sipping throughout the race. Saved me from having to slow down at the food station and gulping down whole cups of liquid.
 
-I tried staying in the upper Zone 3 to low 4 throughout the race---purely by feeling, of course, because of TomTom's failure---which amounted to a pace of 5:05 - 5:10. That worked out fine. Towards the end of the race, the last three kilometers I cautiously sped up to 4:55 - 4:50 and at the finish line even 4:05.
+__I tried staying in the upper Zone 3 to low 4__ throughout the race---purely by feeling, of course, because of TomTom's failure---which amounted to a pace of 5:05 - 5:10. That worked out fine. Towards the end of the race, the last three kilometers I cautiously sped up to 4:55 - 4:50 and once I saw the finish line, even further to 4:05.
 
 ## Conclusions
 
-It's the best 10K I ever did. Certainly in race, but also in training. I wasn't sure how my VO<sub>2</sub>max will work out with only cycling and elliptical training for the last month, but it did well. Granted, I would've preferred to reach this result with a lower heart rate, but I'll keep working on that.
+It's the __best 10K I ever did__. Certainly in race, but also in training. I wasn't sure how my VO<sub>2</sub>max would work, since I was only cycling and elliptical training for the last month, but it did well. Granted, I would've preferred to reach the same result with a lower heart rate, but that's something I'll keep working on.
 
 My take-aways from this race:
 
-1. Elliptical training works really well as a substitute for running when I'm injured. Especially coupled with an intervals program.
+1. __Elliptical training works really well as a substitute for running__ when injured. Especially coupled with an intervals program.
 1. I can certainly go below 50min on a 10K distance, if only I keep training regularly.
 
 Need to fix:
 
-1. My left foot, obviously. After a bit of extra research I'm pretty sure now that it's not a stress fracture (thankfully), but much more likely an [injury of the peroneal tendons][peroneal-tendon-injury]. I'll let the foot rest for a while now and started wearing an ankle brace.
+1. My left foot, obviously. After a bit of extra research I'm pretty sure that it's not a stress fracture (thankfully), but more likely an [injury of the peroneal tendons][peroneal-tendon-injury]. I'll let the foot rest for a while and started wearing an ankle brace.
 
 [peroneal-tendon-injury]: https://www.foothealthfacts.org/conditions/peroneal-tendon-injuries
+[strava-run-nov-5]: https://www.strava.com/activities/1262121436
