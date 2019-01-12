@@ -1,21 +1,21 @@
-baseURL: https://triathlon.paluchowski.com/
+baseURL: https://cycling.paluchowski.com/
 languageCode: en-us
 title: Edge
-theme: triathlete
+theme: edge
 sectionPagesMenu: main
 googleAnalytics: UA-2971180-13
 disqusShortname: triathlon-paluchowski-com
 copyright: Published by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a>. All content is under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
 params:
-    Subtitle: One Triathlete's Journey
-    Description: I'm a mediocre age grouper, sweating hard to improve. Here I share my findings, concerns and questions.
+    Subtitle: Cycling Contemplations
+    Description: I'm a mediocre cyclist, sweating hard to improve. Here I share my findings, concerns and questions.
     Favicon:
         Image: /favicon.png
         Type: image/png
     Intro:
         GravatarEmail: michal@paluchowski.com
         Name:  Michał
-        Text: I'm a mediocre age grouper, sweating hard to improve. Posting about my achievements, failures and findings on the way. Read more <a href="/about/">about me and this blog</a>.
+        Text: I'm a mediocre cyclist, sweating hard to improve. Posting about my achievements, failures and findings on the way. Read more <a href="/about/">about me and this blog</a>.
     Strava:
         AthleteId: 17745574
         WidgetId: 00ce09fd56e435e96d599ec456e44ef89d58c082
