@@ -11,10 +11,6 @@ params:
     Favicon:
         Image: /favicon.png
         Type: image/png
-    Intro:
-        GravatarEmail: michal@paluchowski.com
-        Name:  Michał
-        Text: I'm a mediocre cyclist, sweating hard to improve. Posting about my achievements, failures and findings on the way. Read more <a href="/about/">about me and this blog</a>.
     Strava:
         AthleteId: 17745574
         WidgetId: 00ce09fd56e435e96d599ec456e44ef89d58c082
