@@ -1,7 +1,7 @@
 ---
 title: Road Cycling's Explosion in Warsaw
 date: 2017-09-20T19:39:06+02:00
-image: /img/community/road-cycling-explosion-warsaw/airbike-cycling-group.jpg
+image: /community/road-cycling-explosion-warsaw/airbike-cycling-group.jpg
 tags:
     - cycling
     - road bikes

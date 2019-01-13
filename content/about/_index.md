@@ -13,7 +13,7 @@ __edge__ _v_
 : To move or force gradually.
 : To defeat by a small margin.
 
-{{< figure src="/img/about/michal.jpg" class="right" >}}
+{{< figure src="/about/michal.jpg" class="right" >}}
 
 I'm a mediocre age grouper. Lower-mediocre perhaps, considering my track record to date. But I'm working on getting better, faster, stronger, and sharing these experiences along the way.
 
