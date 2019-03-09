@@ -13,8 +13,6 @@ __edge__ _v_
 : To move or force gradually.
 : To defeat by a small margin.
 
-{{< figure src="michal.jpg" class="right" alt="Michał Paluchowski running" >}}
-
 I'm a cyclist who happens to enjoy writing. Garmin says I'm faster than 73% of men in my age, but I regularly get dropped nonetheless, and keep working on improving. Occasionally I'll write up about my experience here.
 
 ## How did I get into cycling?
