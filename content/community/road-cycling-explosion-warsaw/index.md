@@ -35,13 +35,13 @@ I'm blown away. Where just two-three years ago there was nothing, at least nothi
 [^1]: A friend of mine started cycling this year and after his first ride asked me "is it normal when some random cyclist rides on my tail?" I had to laugh.
 
 [airbike-wilanow-events]: https://www.facebook.com/pg/airbikewilanow/events/
-[airbike-wilanow]: http://airbike.pl/wilanow-ul-branickiego-10
-[airbike]: http://airbike.pl/
+[airbike-wilanow]: https://airbike.pl/nasze-sklepy
+[airbike]: https://airbike.pl
 [baader-meinhof]: https://www.damninteresting.com/the-baader-meinhof-phenomenon/
 [economist-midlife-crisis]: https://www.1843magazine.com/features/the-long-and-winding-road
 [festka]: http://www.festka.com/
-[podia]: http://podia.cc/
+[podia]: https://podia.cc
 [rapha-clubhouses]: https://www.rapha.cc/clubhouses
 [rapha-travel]: https://www.youtube.com/watch?v=aINoBi1y0MA&list=PLkl6Jk-7cGC--BoF_Cwky1l7uSaoFqHOH
-[rapha]: http://www.rapha.cc
+[rapha]: https://www.rapha.cc
 [strava-profile]: https://www.strava.com/athletes/17745574
