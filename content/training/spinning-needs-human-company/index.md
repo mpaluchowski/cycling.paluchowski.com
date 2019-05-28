@@ -3,6 +3,7 @@ title: Spinning Needs Human Company
 date: 2019-02-02T06:08:34Z
 tags:
     - spinning
+    - trainers
 image: /training/spinning-needs-human-company/mcfit-spinning-class.jpg
 blackfriday:
     fractions: false
