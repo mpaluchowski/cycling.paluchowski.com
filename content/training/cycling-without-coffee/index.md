@@ -1,6 +1,7 @@
 ---
 title: "Cycling Without Coffee"
 date: 2019-06-11T14:46:55+02:00
+image: /training/cycling-without-coffee/bike-coffee-shop.jpg
 tags:
     - coffee
     - health
@@ -24,6 +25,8 @@ But coffee's also detrimental to magnesium reserves. I watched an interview with
 How do I know this? Last year I found out I had **latent tetany**. It's a condition where there's not enough magnesium in body tissues, resulting in a plethora of symptoms: losing consciousness, pain in the chest, back and abdomen, panic attacks, indigestion, nausea, heavy sweating, insomnia. The list goes on. Magnesium is involved in the works of pretty much every cell in the body.
 
 My early symptoms included massive cramps in thigh muscles---both quads and hamstrings---starting after about 70km of cycling. Then came the heavy hit when I fainted one night. Shortly afterwards most of the other symptoms followed, which sent me to more doctors and tests than I had had throughout all my life. Thankfully, my neurologist had a hunch and sent me to the right test, because latent tetany is difficult to diagnose. **It won't show on a regular blood test**---[only 1% of the body's magnesium is in the blood, the other 60% in bones, 29% in muscles and 10% in other soft tissues](https://emg-neurolog.pl/magnesium-in-neurologist-practice/). There's no way to test magnesium level in tissues directly and latent tetany can only be diagnosed with an [Electromyography (EMG) test](https://www.mayoclinic.org/tests-procedures/emg/about/pac-20393913).
+
+{{< figure src="coffee-drinking-cyclists.jpg" class="left" >}}
 
 I wasn't anywhere near a heavy coffee drinker up to that point. Two, occasionally three coffees a day was my norm---way less than many people I know. But different people have a different way of processing caffeine, different ways their body absorbs magnesium, and many people don't train as much as I do. So I had to work with what my body offered.
 
