@@ -1,6 +1,6 @@
 ---
 title: "Strava, What Are You?"
-date: 2019-09-17T12:31:04Z
+date: 2019-09-20T17:16:56Z
 tags:
     - Strava
     - social networks
@@ -24,11 +24,15 @@ Then there's the **route editor**, better than any other I tried. There are apps
 
 Finally, there's the **competitive spirit**---if that's your cup of tea. It's not mine, perhaps because I'm far, far away from the top ranks, but I do appreciate the concept. Every Strava club has a weekly rank list, every road segment too, with sublists for the men, women, age groups, years etc. Opening the profile of another athlete shows a comparison of your and their stats, ie. how your weekly average ridden kilometers compare. A *lot* of people live by all those rankings.
 
+{{< figure src="segment-leaderboard.png" title="Segment leaderboard" class="full" >}}
+
 ## What's *meh*?
 
 Some features are a waste of space. **Athlete Posts** are the best example, [which I raged about previously][athlete-posts]. I've yet to see someone read or publish those.
 
 **"Challenges"** sound like a good idea, but not the way they work right now. Most aren't challenging at all---any reasonably active cyclist can ride 100-150km in three weeks. Those are the ones that various brands pay for as a form of advertising. The in-house, monthly challenges of, say, doing a single 100km+ ride (a "Gran Fondo"), or doing a total of 1,250km in a month, are better, but hardly exciting. In the end, it's just a badge on your profile, and people seem to just mindlessly join the next month's ones without much enthusiasm.
+
+{{< figure src="challenge-trophies.png" title="Challenge trophies" class="full" >}}
 
 ## What needs more work?
 
@@ -55,6 +59,8 @@ Some people also argue that the mobile app should offer turn-by-turn navigation.
 [As with any VC-backed business][strava-crunchbase], Strava aims at "monetizing" their user base, and either achieve profitability or sell out. Their current income streams are: special Challenges, brand-owned Clubs, and possibly branded Athlete Posts, but that's all advertising, and it always creates awkward incentives for the company. Their users become the product rather than customers.
 
 They do offer the paid Summit, which consists of three feature packs. I found these only mildly useful, and judging by the number of people who are Summit members, most users concur. It's not about the money, because each pack costs less than a Starbucks latte.
+
+{{< figure src="strava-summit-packs.png" title="Strava Summit packs" class="full" >}}
 
 I think **Strava would do better following a [model like Meetup.com][meetup]**, that is build excellent tools for organizing group events, then charge the organizers. I can see big sports brands, as well as local bike shops, creating their own Clubs and using the tools to stay in touch with their customers.
 
