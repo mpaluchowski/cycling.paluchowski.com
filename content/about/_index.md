@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2017-09-14T09:44:18+02:00
+date: 2019-09-24T04:08:09Z
 weight: 100
 ---
 
@@ -13,7 +13,7 @@ __edge__ _v_
 : To move or force gradually.
 : To defeat by a small margin.
 
-I'm a cyclist who happens to enjoy writing. Garmin says I'm faster than 73% of men in my age, but I regularly get dropped nonetheless, and keep working on improving. Occasionally I'll write up about my experience here.
+I'm a cyclist who happens to enjoy writing. Garmin says I'm faster than 90% of men of my age, but I regularly get dropped nonetheless, and keep working on improving. Occasionally I'll write up about my experience here.
 
 ## How did I get into cycling?
 
