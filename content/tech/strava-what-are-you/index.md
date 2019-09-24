@@ -10,7 +10,7 @@ tags:
 
 <!--more-->
 
-I'm a [Strava Summit member][strava-summit], which means I'm paying for a bunch of extra features that I barely use. I am paying, though, so that they stick around because I generally like what they're doing. A number of their features are really useful, unique, and all of those are available for free. Plus, they're independent of any sports hardware vendor, so no matter what bike computer, watch or other gadget you are using, you can still have your data sync to Strava.
+I'm a [Strava Summit member][strava-summit], which means I'm paying for a bunch of extra features that I barely use. I *am* paying, though, so that the company sticks around because I like what they're doing. A number of their features are really useful, unique, and all of those are available for free. Plus, they're independent of any sports hardware vendor, so no matter what bike computer, watch or other gadget you are using, you can still have your data sync to Strava.
 
 I wish they focused. I wish they built great features for their users instead of haphazardly seeking ways to monetize the platform. There's so much potential in there.
 
