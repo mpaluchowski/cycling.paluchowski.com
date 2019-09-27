@@ -1,28 +1,45 @@
 ---
 title: "Planning Routes in Unfamiliar Territory"
-date: 2019-09-24T06:40:22+02:00
+date: 2019-09-27T11:01:46Z
+tags:
+  - Strava
+  - Google Maps
+  - Google Street View
+  - planning
+image: perfect-road.jpg
 ---
 
-Smooth asphalt, low traffic, great views and maybe coffee, if I'm lucky, are what I aim for when planning rides. Tough when I don't know the are I'll be riding, ie. when I travel. Beginnings were hit or miss and I often landed in potholes or on gravel roads, but with time I worked out the tools and strategies that *usually* take me where I want.
+Smooth asphalt, low traffic, great views, and maybe a coffee mid-way. That's all I ask for when cycling and what I aim for when planning routes. Beginnings were difficult. I tried to guess which way to take, then usually hit potholes or gravel. With time, I collected techniques and tools that feed me the information I need to plan a quality ride.
 
 <!--more-->
 
-My first rule of thumb: **steal, when you can**. People who often ride in a given area know it best and being brag-hungry as most of them are, their rides are available on Strava. Whenever I see someone did an interesting ride, be that near Warsaw or elsewhere I may want to visit one day, I'll use Strava's ride-to-route feature and store that route for later reference.
+## Ready routes
 
-(photo of button to copy ride to route)
+My first rule of thumb is: **steal whenever possible**. Many of the rides shared on Strava are gems of local cycling knowledge. Whenever I see someone had an interesting route, I use the ride-to-route feature and stash it for later.
 
-Another great source of routes are races. There are tens of these throughout the season in Poland alone. Each one will publish their route, which you can bet was designed with local knowledge, then tested and checked for safety and road surface quality.
+I keep an eye on **races** organized wherever I'll be travelling to. These all have routes that had been carefully planned *and tested* for quality and safety. Usually they'll publish a `.gpx` file that I can import into Strava and Garmin.
 
-Then there's a number of services that offer route mapping and cataloging. My favorite one here is bikemap.net, but I also frequently see people use ridewithgps. On Bikemap.net I can search for a starting location, routes tagged with Road, browse the results and copy or save them in my personal catalog. There's a feature for rating routes, so technically a higher-rated one should be better, but in reality, few routes have any ratings or any meaningful number of them.
+There are also many **online route catalogs**. My favorite one is [bikemap](https://www.bikemap.net/), but I also frequently see people use [Ride with GPS](https://ridewithgps.com/). On bikemap I can search for a starting location, then browse the routes others uploaded, filter for road cycling, length and total ascent. Finally, I can save the ones I like into my personal collection.
 
-Finally, I do a lot of planning on my own. Either because I'm unable to find a suitable route to copy from anywhere, or more often because I want to build something based on a few route ideas I find. I often see people mark routes suboptimally, taking roads that are needlessly crowded with cars, where the maps tell me they could be avoided.
+<iframe src="https://www.bikemap.net/en/r/4791402/widget/?width=640&amp;height=480&amp;unit=metric" width="640" height="480" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 
-How do I choose roads? First, I prefer roads that have no numbers on the map. Major roads have numbers and these normally have higher traffic, which I'm trying to avoid. With the non-numbered roads though there's always the risk of hitting a bad surface with potholes or something unpaved altogether.
+## Bespoke routes
 
-OpenStreetMap helps here. Turn on the Cycling layer and most of the unpaved roads are shown with dashed lines, whereas solid lines are for paved roads---but these could still be cobblestones or similar! So then there's Google StreetView to the rescue. Their cars will *normally* not venture off asphalt (and I do stress *normally* because I found places where that is not true), so if there's a StreetView trail on a given road, it's probably solid. Then you can see the actual photos and judge the surface yourself. On longer stretches I check a few random locations to reduce the risk of running into a bad road.
+I do a lot of planning on my own. Often times I can't find a suitable ready route to follow or decide to stitch multiple ones together. Plus, people tend to ride familiar routes that may not be optimal in terms of traffic and comfort, or miss out on interesting branches that I can spot on the map.
 
-(embed? jakości jezdni ze StreetView)
+I **prefer roads that have higher numbers or no numbers** at all. The higher the number, the lower the road's category and the lighter its traffic. These will often be the most picturesque roads around. Alas, they also carry a higher risk of having bad surface or potholes.
 
-Unfortunately, Google StreetView is often grossly outdated---I saw photos shot in 2011 lately, now that's 2019---and it's not available everywhere---a major blank spot in Europe being the ever-privacy-minded Germany. My last resort here is using the satellite photos from Google Maps and hoping they have a recent, high-resolution shot available. Asphalt has this characteristic grey color so it's not too hard to spot on these photos, providing a given road is not covered by trees.
+[OpenStreetMap](https://www.openstreetmap.org/) helps me evaluate road quality. The Cycling layer uses solid lines to indicate paved roads, though these also include cobblestones and other uncomfortable materials.
 
-Even with all the above resources available, there's still always risk that some map or photo was incorrect or outdated. Often times I hit road works that I need to circumvent or uncomfortably ride through, and I haven't find a good place online to check for them. Yes, maps like Waze tend to cover these well on major roads, but on the minor ones there's much less of a chance that someone will report them simply because there's little traffic moving there.
+To really *see* what the surface looks like, I turn to **Google Street View**. Their cars normally don't venture off asphalt, so if a road has coverage, there's a good chance that it's solid. I pick a few points on the road, especially at junctions and away from inhabited areas, check whether it's asphalt, how patched up it is and such.
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1569586300368!6m8!1m7!1s0TmgQTOVQpaoRi5JPhV0Ag!2m2!1d51.93445765920654!2d21.037452593863!3f39.56316485742547!4f-2.9488296126383915!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+Unfortunately, **Google Street View is often grossly outdated**. I frequently see photos shot *a decade* ago. It's also **not available everywhere**---a major blank spot being the ever-privacy-minded Germany. My last resort in these cases are satellite images from Google Maps, hopefully in high resolution and a clear view of the road. I won't see potholes, and some gravel surfaces look a lot like asphalt from above, but that's a risk I can take.
+
+Even with all this information available, there's one obstacle I'm unable to foresee: road works. You'd be surprised how often I encounter these---Poland is doing a lot of road construction lately---and there's really no information about them available anywhere online, simply because these are such rarely used roads. [Waze](https://www.waze.com/) won't help. And the works are often finished within week or two.
+
+That's as far as I can plan ahead, for the time being. From here, I clip in and start the ride, dealing with whatever unexpected comes up along the way.
+
+
+Header photo by [Simon Rae](https://unsplash.com/@simonrae) on [Unsplash](https://unsplash.com/).
