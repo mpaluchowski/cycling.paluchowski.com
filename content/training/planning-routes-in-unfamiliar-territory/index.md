@@ -1,6 +1,6 @@
 ---
 title: "Planning Routes in Unfamiliar Territory"
-date: 2019-09-27T11:01:46Z
+date: 2019-09-27T13:02:31Z
 tags:
   - Strava
   - Google Maps
@@ -21,7 +21,7 @@ I keep an eye on **races** organized wherever I'll be travelling to. These all h
 
 There are also many **online route catalogs**. My favorite one is [bikemap](https://www.bikemap.net/), but I also frequently see people use [Ride with GPS](https://ridewithgps.com/). On bikemap I can search for a starting location, then browse the routes others uploaded, filter for road cycling, length and total ascent. Finally, I can save the ones I like into my personal collection.
 
-<iframe src="https://www.bikemap.net/en/r/4791402/widget/?width=640&amp;height=480&amp;unit=metric" width="640" height="480" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+{{< bikemap-route id="4791402" >}}
 
 ## Bespoke routes
 
@@ -33,7 +33,7 @@ I **prefer roads that have higher numbers or no numbers** at all. The higher the
 
 To really *see* what the surface looks like, I turn to **Google Street View**. Their cars normally don't venture off asphalt, so if a road has coverage, there's a good chance that it's solid. I pick a few points on the road, especially at junctions and away from inhabited areas, check whether it's asphalt, how patched up it is and such.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1569586300368!6m8!1m7!1s0TmgQTOVQpaoRi5JPhV0Ag!2m2!1d51.93445765920654!2d21.037452593863!3f39.56316485742547!4f-2.9488296126383915!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+{{< google-street-view qs="pb=!4v1569586300368!6m8!1m7!1s0TmgQTOVQpaoRi5JPhV0Ag!2m2!1d51.93445765920654!2d21.037452593863!3f39.56316485742547!4f-2.9488296126383915!5f0.7820865974627469" >}}
 
 Unfortunately, **Google Street View is often grossly outdated**. I frequently see photos shot *a decade* ago. It's also **not available everywhere**---a major blank spot being the ever-privacy-minded Germany. My last resort in these cases are satellite images from Google Maps, hopefully in high resolution and a clear view of the road. I won't see potholes, and some gravel surfaces look a lot like asphalt from above, but that's a risk I can take.
 
