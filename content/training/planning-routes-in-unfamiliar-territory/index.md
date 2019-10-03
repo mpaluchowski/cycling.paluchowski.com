@@ -1,6 +1,7 @@
 ---
 title: "Planning Routes in Unfamiliar Territory"
 date: 2019-09-27T13:02:31Z
+lastmod: 2019-10-03T07:58:03Z
 tags:
   - Strava
   - Google Maps
@@ -29,7 +30,7 @@ I do a lot of planning on my own. Often times I can't find a suitable ready rout
 
 I **prefer roads that have higher numbers or no numbers** at all. The higher the number, the lower the road's category and the lighter its traffic. These will often be the most picturesque roads around. Alas, they also carry a higher risk of having bad surface or potholes.
 
-[OpenStreetMap](https://www.openstreetmap.org/) helps me evaluate road quality. The Cycling layer uses solid lines to indicate paved roads, though these also include cobblestones and other uncomfortable materials.
+[OpenStreetMap](https://www.openstreetmap.org/) helps me evaluate road quality. The Cycling layer uses solid lines to indicate paved roads, though these also include cobblestones and other uncomfortable materials. A road's meta-data often names the specific type of surface, but the accuracy of this information depends, obviously, on whoever entered it.
 
 To really *see* what the surface looks like, I turn to **Google Street View**. Their cars normally don't venture off asphalt, so if a road has coverage, there's a good chance that it's solid. I pick a few points on the road, especially at junctions and away from inhabited areas, check whether it's asphalt, how patched up it is and such.
 
