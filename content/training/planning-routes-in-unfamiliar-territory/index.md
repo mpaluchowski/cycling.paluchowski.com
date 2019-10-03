@@ -32,7 +32,7 @@ I **prefer roads that have higher numbers or no numbers** at all. The higher the
 
 [OpenStreetMap](https://www.openstreetmap.org/) helps me evaluate road quality. The Cycling layer uses solid lines to indicate paved roads, though these also include cobblestones and other uncomfortable materials. A road's meta-data often names the specific type of surface, but the accuracy of this information depends, obviously, on whoever entered it.
 
-To really *see* what the surface looks like, I turn to **Google Street View**. Their cars normally don't venture off asphalt, so if a road has coverage, there's a good chance that it's solid. I pick a few points on the road, especially at junctions and away from inhabited areas, check whether it's asphalt, how patched up it is and such.
+To really *see* what the surface looks like, I turn to **Google Street View**. Their cars normally don't venture off asphalt, so if a road has Street View coverage, that's a good sign. I pick a few points on the road, especially at junctions and away from inhabited areas, check whether it's asphalt, how patched up it is and such.
 
 {{< google-street-view qs="pb=!4v1569586300368!6m8!1m7!1s0TmgQTOVQpaoRi5JPhV0Ag!2m2!1d51.93445765920654!2d21.037452593863!3f39.56316485742547!4f-2.9488296126383915!5f0.7820865974627469" >}}
 
