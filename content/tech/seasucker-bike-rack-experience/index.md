@@ -1,7 +1,7 @@
 ---
 title: "The SeaSucker Bike Rack Experience"
 date: 2019-09-11T08:52:48Z
-image: /tech/seasucker-bike-rack-experience/seasucker-rack-bikes.jpg
+image: seasucker-rack-bikes.jpg
 tags:
     - travel
     - car

@@ -1,7 +1,7 @@
 ---
 title: "Cycling Without Coffee"
 date: 2019-06-11T14:46:55+02:00
-image: /training/cycling-without-coffee/bike-coffee-shop.jpg
+image: bike-coffee-shop.jpg
 tags:
     - coffee
     - health

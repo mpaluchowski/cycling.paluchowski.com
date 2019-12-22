@@ -4,9 +4,7 @@ date: 2019-02-02T06:08:34Z
 tags:
     - spinning
     - trainers
-image: /training/spinning-needs-human-company/mcfit-spinning-class.jpg
-blackfriday:
-    fractions: false
+image: mcfit-spinning-class.jpg
 ---
 
 24/7 spininng classes via an endless stream of [Cyberobics](https://www.cyberobics.com/en/), in fabulous locations, from Malibu through Las Vegas to Miami. That's the allure of [McFit](https://www.mcfit.com/), my fitness studio of choice. But while human-led spinning classes elsewhere are bursting with people, I'm usually sweating in this dark room on my own.
