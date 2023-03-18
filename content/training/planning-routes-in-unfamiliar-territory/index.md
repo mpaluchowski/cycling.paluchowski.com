@@ -43,4 +43,4 @@ Even with all this information available, there's one obstacle I'm unable to for
 That's as far as I can plan ahead, for the time being. From here, I clip in and start the ride, dealing with whatever unexpected comes up along the way.
 
 
-Header photo by [Simon Rae](https://unsplash.com/@simonrae) on [Unsplash](https://unsplash.com/).
+Header photo by [Gaith Shalan](https://unsplash.com/@gaithshalan) on [Unsplash](https://unsplash.com/).
