@@ -1,7 +1,7 @@
 ---
 title: "Planning Routes in Unfamiliar Territory"
 date: 2019-09-27T13:02:31Z
-lastmod: 2019-10-03T07:58:03Z
+lastmod: 2023-03-18T05:46:41Z
 tags:
   - Strava
   - Google Maps
