@@ -1,4 +1,4 @@
 ---
 title: Tech
-weight: 40
+weight: 20
 ---

@@ -8,6 +8,8 @@ tags:
   - Google Street View
   - planning
 image: perfect-road.jpg
+aliases:
+  - /training/planning-routes-in-unfamiliar-territory/
 ---
 
 Smooth asphalt, low traffic, great views, and maybe a coffee mid-way. That's all I ask for when cycling, and what I aim for when planning routes. Beginnings were difficult. I tried to guess which way to take, then usually hit potholes or gravel. With time, I collected techniques and tools that feed me the information I need to plan a quality ride.
