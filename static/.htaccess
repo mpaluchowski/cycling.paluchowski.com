@@ -10,8 +10,8 @@ Redirect permanent "/community/strava-should-do-better-than-athlete-posts/" "/te
     Header set X-Frame-Options DENY
 
     <FilesMatch "\.html$">
-        Header merge Link "<https://fonts.googleapis.com/>; rel=preconnect"
-        Header merge Link "<https://fonts.gstatic.com/>; rel=preconnect"
+        Header merge Link "<https://fonts.googleapis.com>; rel=\"preconnect\""
+        Header merge Link "<https://fonts.gstatic.com>; rel=\"preconnect\""
     </FilesMatch>
     <FilesMatch "\.(jpg|jpeg|webp|png|svg|ico)$">
         Header set Cache-Control "max-age=604800, public"
