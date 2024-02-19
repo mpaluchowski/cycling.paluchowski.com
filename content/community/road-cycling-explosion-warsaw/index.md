@@ -27,13 +27,14 @@ My wife made jokes about how much time and money I was spending on the bike (tha
 
 {{< youtube qhFCLnwrh7Q >}}
 
-These were __people, for whom road cycling was an integral part of life__. The strength of this community made companies, such as Rapha with their [worldwide network of community clubhouses][rapha-clubhouses], possible. Similar companies operate now around Poland, two examples being [Podia][podia] in Kraków and [Festka][festka] in Prague, Czechia.
+These were __people, for whom road cycling was an integral part of life__. The strength of this community made companies, such as Rapha with their [worldwide network of community clubhouses][rapha-clubhouses], possible. Similar companies operate now around Poland, two examples being ~~Podia in Kraków~~[^2] and [Festka][festka] in Prague, Czechia.
 
 In Warsaw, the [AirBike chain of bicycle shops][airbike] is gradually building a community following. Their [Wilanów location][airbike-wilanow] is an aspiring café (missing seating though) and a __meeting spot for [organized group rides][airbike-wilanow-events]__. Last year there was only one, rather fast, group each Saturday---and I joined them, biking through the winter. This year there's another, beginner group, plus a Wednesday ladies-only "fast" ride and a just-announced Thursday, again ladies-only, "gossip pace" ride (that's _literally_ the name). All that in addition to many loose groups organizing themselves on Strava or Facebook.
 
 I'm blown away. Where just two-three years ago there was nothing, at least nothing I was aware of, there's now all this hubbub of activity. __The only element we're missing is a proper clubhouse__---a _quality_ place for cyclists to meet and hang out, with bike stands (duh!), excellent coffee, food, biking memorabilia decor, TV screens broadcasting races, and plenty of events to get people together. Ideally located at the end of one of the popular cycling routes of Warsaw. Or maybe that place already exists, I just haven't heard of it?
 
 [^1]: A friend of mine started cycling this year and after his first ride asked me "is it normal when some random cyclist rides on my tail?" I had to laugh.
+[^2]: Podia seems to have closed down.
 
 [airbike-wilanow-events]: https://www.facebook.com/pg/airbikewilanow/events/
 [airbike-wilanow]: https://airbike.pl/nasze-sklepy
@@ -41,7 +42,6 @@ I'm blown away. Where just two-three years ago there was nothing, at least nothi
 [baader-meinhof]: https://www.damninteresting.com/the-baader-meinhof-phenomenon/
 [economist-midlife-crisis]: https://www.1843magazine.com/features/the-long-and-winding-road
 [festka]: http://www.festka.com/
-[podia]: https://podia.cc
 [rapha-clubhouses]: https://www.rapha.cc/clubhouses
 [rapha-travel]: https://www.youtube.com/watch?v=aINoBi1y0MA&list=PLkl6Jk-7cGC--BoF_Cwky1l7uSaoFqHOH
 [rapha]: https://www.rapha.cc
