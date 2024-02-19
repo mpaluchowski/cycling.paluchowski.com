@@ -12,7 +12,7 @@ I have to watch my magnesium. My body tends to get low on it, which destabilizes
 
 <!--more-->
 
-I mean, think of all the places where bicycles and coffee go together. We have [bike shops that serve coffee](http://kolarski.eu/cafe-kolarski/). Roasters that produce [Coffee for Cyclists](https://kawadlakolarzy.pl). Weekend group rides always start with espresso shots at an open-early coffee shop. Heck, we even go on "Coffee Rides", where we cycle from cafe to cafe, for cake and the inevitable cup of dark gold.
+I mean, think of all the places where bicycles and coffee go together. We have [bike shops that serve coffee](https://kolarski.eu/kawiarnia/). Roasters that produce coffee marketed to cyclists. Weekend group rides always start with espresso shots at an open-early coffee shop. Heck, we even go on "Coffee Rides", where we cycle from cafe to cafe, for cake and the inevitable cup of dark gold.
 
 Coffee's a known performance enhancer in sports. [^1]
 

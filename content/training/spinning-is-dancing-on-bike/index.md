@@ -27,9 +27,8 @@ The coach keeps telling us to synchronize pedaling with the beat of the songs---
 
 There's the additional benefit of __self-regulated effort__. Every bike has its own knob for regulating friction, and therefore pedaling effort. When I want a heavily strength-oriented session, I turn it up; when I prefer a steady, aerobic endurance ride, I turn it down. No need to look for hills nor flat road segments, and no incentive to race anyone around me.
 
-My local gym, [Calypso Ursynów][calypso-ursynow], has perfectly scheduled spinning classes---three in a row on both Saturday and Sunday mornings. I can attend one, two, or all three at a time, depending on my mood and goals. They also, unsurprisingly, have lots of treadmills, so later I'm planning to try doing bricks there.
+My local gym, Calypso Ursynów, has perfectly scheduled spinning classes---three in a row on both Saturday and Sunday mornings. I can attend one, two, or all three at a time, depending on my mood and goals. They also, unsurprisingly, have lots of treadmills, so later I'm planning to try doing bricks there.
 
-[calypso-ursynow]: https://www.calypso.com.pl/klub/calypso-warszawa-ursynow/
 [freestyler-youtube]: https://www.youtube.com/watch?v=ymNFyxvIdaM
 [strava-new-years-eve-ride]: https://www.strava.com/activities/840057488
 [strava-ride-tts]: https://www.strava.com/activities/1197359860
