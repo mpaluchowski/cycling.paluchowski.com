@@ -4,6 +4,10 @@ title: Edge
 theme: edge
 sectionPagesMenu: main
 googleAnalytics: G-V8734ZHR0G
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 copyright: Published by <a href="https://michal.paluchowski.com/">Michał Paluchowski</a>. All content is under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
 params:
     Subtitle: Cycling Contemplations
