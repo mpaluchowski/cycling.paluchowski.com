@@ -40,7 +40,7 @@ I'm not sure. To date I've always been renting them and haven't decided to buy o
 
 **They're expensive.** Approx. €400 for the one-bike model is two- to three times as much as a regular rack would cost. The three-bike Bomber model costs twice as much.
 
-On the upside, they can be used with any car, so if we buy a new one or take another car, ie. rented one, we could still use them. And they're much smaller than regular racks, because there's no rail between the front and rear grip, making them easy to store them at home. The bike shop where I'm renting them stores these sucked onto a glass wall.
+On the upside, they can be used with any car, so if we buy a new one or take another car, ie. rented one, we could still use them. And they're much smaller than regular racks, because there's no rail between the front and rear grip, making them easy to store at home. My local bike stores these sucked onto a glass wall.
 
 I like to act in a data-based fashion, meaning: do I use it often enough to justify buying? So far, no. I used it four times this year, each time paying approx. €25 for the rental, totalling €100, which is still a lot less than a new one costs. And I don't need to store it, or service, or worry about it in any matter.
 
