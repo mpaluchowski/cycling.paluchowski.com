@@ -42,9 +42,9 @@ I'm not sure. To date I've always been renting them and haven't decided to buy o
 
 On the upside, they can be used with any car, so if we buy a new one or take another car, ie. rented one, we could still use them. And they're much smaller than regular racks, because there's no rail between the front and rear grip, making them easy to store at home. My local bike shop stores these sucked onto a glass wall.
 
-I like to act in a data-based fashion, meaning: do I use it often enough to justify buying? So far, no. I used it four times this year, each time paying approx. €25 for the rental, totalling €100, which is still a lot less than a new one costs. And I don't need to store it, or service, or worry about it in any matter.
+I like to act in a data-based fashion, meaning: do I use it often enough to justify buying? So far, no. I used it four times this year, each time paying approx. €25 for the rental, totalling €100, which is still a lot less than a new one costs. And I don't need to store it, or service, or worry about it in any way.
 
-Maybe the next time we change cars, we'll have a towbar mounted to it, and rent racks that fit onto it. These are both cheaper to rent than a SeaSucker, and much less damaging to the cars aerodynamics. They'd be a pain to store at home, but as long as we're renting, that won't be an issue.
+Maybe the next time we change cars we'll have a towbar on it, and rent compatible racks. These are both cheaper than a SeaSucker, and much less damaging to the car's aerodynamics. They'd be a pain to store at home, but as long as we're renting, that won't be an issue.
 
 [cable-anchor]: https://www.seasucker.com/collections/rack-accessories/products/cable-anchor-window
 [seasucker-bike-rack]: https://www.seasucker.com/collections/bike
