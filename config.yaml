@@ -1,5 +1,7 @@
 baseURL: https://cycling.paluchowski.com/
-languageCode: en-us
+languages:
+  en:
+    locale: "en-us"
 title: Edge
 theme: edge
 sectionPagesMenu: main
