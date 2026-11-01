@@ -15,7 +15,7 @@ Autumn barely just started and it's already in full swing. We had a full week of
 
 Cold I don't mind. I've been cycling all previous winter, including a [fun ride on New Year's Eve][strava-new-years-eve-ride]:
 
-{{< strava-activity id="840057488" hash="6a93a704064cb3cf22b266a1698cf9870fd1765a" >}}
+{{< strava-activity id="840057488" token="JmxVrX7LXRq3vQvxy9rQQtdRsBFC3-wxL8KoTO_7OxI" >}}
 
 It's been very pleasantly tranquil with few other bikers on the usually crowded routes. So, as long as it's dry, there's no snow nor ice on the road, and above -5C, I'll be cycling outside. For the other days---the wet, snowy or ice-covered ones---I found a great alternative in spinning classes.
 
